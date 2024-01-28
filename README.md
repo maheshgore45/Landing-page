@@ -1,1 +1,1 @@
-# Landing-page
+This is the landing page for restaurant.
